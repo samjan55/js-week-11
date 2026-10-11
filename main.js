@@ -3,7 +3,7 @@ import {
   isAdult,
   celsiusToFahrenheit,
   calculateAverage
-} from "./untils.js";
+} from "./utils.js";
 
 console.log(calculateDiscount(100, 20));
 console.log(isAdult(20));
